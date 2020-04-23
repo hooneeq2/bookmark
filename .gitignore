@@ -1,0 +1,6 @@
+*.pyc
+*~
+/venv
+__pycharm__
+db.squlite3
+.DS_Store
